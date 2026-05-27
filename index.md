@@ -7,8 +7,8 @@
 
 # Learn about the project
 
-[Read blog post](https://kristinalivlarsen.com/blog/map-conversation-cards/)  
-[View slide deck](https://docs.google.com/presentation/d/1goPMpxlS2PYrtK1ZnjxEGOu2NF1uIFfjyWYUN1l49KY/edit?usp=sharing) from May 29, 2026 [California Conference on Library Instruction](https://www.cclibinstruction.org/) lightning talk
+* Map Conversation Cards: Discussion prompts for teaching with maps [[Blog post](https://kristinalivlarsen.com/blog/map-conversation-cards/)]. *Overview of the development process.*  
+* Cards for Cartography: Gamification of Visual Analysis in the Map Library [[Slide deck](https://docs.google.com/presentation/d/1goPMpxlS2PYrtK1ZnjxEGOu2NF1uIFfjyWYUN1l49KY/edit?usp=sharing)]. *Lightning talk presented on May 29, 2026 at the [California Conference on Library Instruction](https://www.cclibinstruction.org/)* 
 
 # Make your own cards
 
@@ -16,8 +16,9 @@
 
 We’re planning a version two sometime this year, so check back for updates in the future.
 
-* [Prompts in list form (docx)](https://github.com/davidrumseymapcenter/mapcards/blob/main/Map%20Discussion%20Prompts%20-%20Card%20View.pdf)  
-* [Prompts in layout form(PDF)](https://github.com/davidrumseymapcenter/mapcards/blob/main/Map%20Discussion%20Prompts%20-%20List%20View.docx)
+* *Right click links below and choose "Save link as" to download.*
+* [Prompts in layout form(PDF)](https://github.com/davidrumseymapcenter/mapcards/blob/main/Map%20Discussion%20Prompts%20-%20Card%20View.pdf)
+* [Prompts in list form (docx)](https://github.com/davidrumseymapcenter/mapcards/blob/main/Map%20Discussion%20Prompts%20-%20List%20View.docx) 
 
 ## View design in Canva
 
